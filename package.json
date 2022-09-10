@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "js_toy_tale-nyc-web-career-012819-master",
+  "description": "You got a friend in need!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
